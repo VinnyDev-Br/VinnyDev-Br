@@ -93,13 +93,6 @@ em aprender e customizar **criptografia aplicada a fluxos de mídia**.
 <br/>
 <br/>
 
-
-
-
-<br/>
-<br/>
-<br/>
-
 ---
 
 ### 📫 Contato
