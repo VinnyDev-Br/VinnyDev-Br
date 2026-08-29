@@ -119,13 +119,6 @@ em aprender e customizar **criptografia aplicada a fluxos de mídia**.
 
 ---
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| [webrtc-video-chat](https://github.com/VinnyDev-Br/webrtc-video-chat) | Videochamada 1:1 com WebRTC e sinalização via WebSocket em Node.js. |
-| [webrtc-encrypted-streams](https://github.com/VinnyDev-Br/webrtc-encrypted-streams) | Mesma base, com camada de criptografia por frame usando Insertable Streams. |
-
 ### 📫 Contato
 
 - LinkedIn:
