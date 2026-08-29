@@ -4,31 +4,6 @@ Graduando em Ciência da Computação na **UFC – Campus Quixadá**, com intere
 pesquisar, aprender e prototipar **arquiteturas de comunicação em tempo real** e
 em aprender e customizar **criptografia aplicada a fluxos de mídia**.
 
-## 🎯 Foco atual
-
-Tenho base sólida em lógica de programação e Orientação a Objetos (Java e C++),
-e venho direcionando meus estudos para:
-- **Comunicação em tempo real**: WebRTC, sinalização cliente-servidor, arquiteturas P2P.
-- **Segurança de mídia**: Insertable Streams, criptografia por frame, WebCrypto.
-- **Fundamentos**: JavaScript, Git, Node.js, redes de computadores.
-
-## 💼 Experiência
-
-- **Bolsista — Projeto Colonnymoon** (2025): testes de software em um aplicativo
-  mobile voltado a apicultores cearenses — execução de cenários de teste,
-  validação de fluxos e reporte de problemas.
-- **Escola de Aprendizes-Marinheiros do Ceará** (2026): controle e manutenção de
-  banco de dados com informações sigilosas de militares, seguindo protocolos de
-  segurança da informação — experiência que motivou meu interesse por
-  criptografia aplicada.
-
-
-## 🛠️ Competências
-
-`Java` · `C++` · `JavaScript` · `Node.js` · `WebRTC` · `Git` · `Redes de Computadores`
-
-
-
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
