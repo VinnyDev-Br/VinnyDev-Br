@@ -1,61 +1,42 @@
-# Olá, eu sou o Vinícius 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-Graduando em Ciência da Computação na **UFC – Campus Quixadá**, com interesse em
-pesquisar, aprender e prototipar **arquiteturas de comunicação em tempo real** e
-em aprender e customizar **criptografia aplicada a fluxos de mídia**.
+#
 
-<p align="left">
-    <a href="https://github.com/VinnyDev-Br?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/VinnyDev-Br?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/VinnyDev-Br?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/VinnyDev-Br?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+# Olá, eu sou o Vinícius Macedo! 👋
 
----
+Graduando em **Ciência da Computação** na Universidade Federal do Ceará (UFC - Campus Quixadá). Tenho forte interesse em pesquisar, aprender e prototipar arquiteturas de comunicação em tempo real, além de explorar customizações de criptografia aplicada a fluxos de mídia. Possuo base sólida em lógica de programação e Orientação a Objetos (Java e C++), com experiência prática em testes de software e gestão de dados.
 
-### 🎯 Foco atual
+#
 
-- **Comunicação em tempo real**: WebRTC, sinalização cliente-servidor, arquiteturas P2P.
-- **Segurança de mídia**: Insertable Streams, criptografia por frame, WebCrypto.
-- **Fundamentos**: JavaScript, Git, Node.js, redes de computadores.
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-### 💼 Experiência
+<h3 align="left">Connect with me!</h3>
 
-- **Bolsista — Projeto Colonnymoon** (2025): testes de software em aplicativo
-  mobile voltado a apicultores cearenses.
-- **Escola de Aprendizes-Marinheiros do Ceará** (2026): controle de banco de
-  dados sigilosos e protocolos de segurança da informação — experiência que
-  motivou meu interesse por criptografia aplicada.
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:freitasvini676@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/vinicius-macedo-dev/)
 
----
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="left">My Stack ~</h3>
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="C++" 
-    title="C++"
+    alt="CSS" 
+    title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
@@ -65,22 +46,16 @@ em aprender e customizar **criptografia aplicada a fluxos de mídia**.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -90,12 +65,50 @@ em aprender e customizar **criptografia aplicada a fluxos de mídia**.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Vercel"
+    title="Vercel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
 <br/>
 <br/>
 
----
+<h3 align="left">GitHub Stats</h3>
 
-### 📫 Contato
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
 
-- LinkedIn:
-- E-mail: freitasvini676@gmail.com
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+</picture>
+
+
