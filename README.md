@@ -8,6 +8,15 @@ Sou graduando em **Ciência da Computação** pela Universidade Federal do Cear�
 Possuo formação sólida em **Estruturas de Dados** e **Programação Orientada a Objetos** (Java e C++), o que contribui para o desenvolvimento de soluções mais eficientes e estruturadas no tratamento de dados. Conto ainda com experiência prática em testes de software e gestão de dados.
 #
 
+#
+
+# Hello, I'm Vinicius Macedo! 👋 🇺🇸
+
+I'm a Computer Science undergraduate at the Federal University of Ceará (UFC), Brazil 🇧🇷, with a focus on Data Analysis. I have hands-on experience with Python (pandas, seaborn, and matplotlib) for data wrangling, exploration, and visualization, as well as SQL and Excel for querying and organizing information. I also have experience building dashboards to support data-driven decision-making.
+
+I have a solid foundation in Data Structures and Object-Oriented Programming (Java and C++), which supports writing more efficient and well-structured code for data processing. I also bring practical experience in software testing and data management.
+#
+
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 <h3 align="left">Connect with me!</h3>
@@ -18,9 +27,6 @@ Possuo formação sólida em **Estruturas de Dados** e **Programação Orientada
 
 <h3 align="left">My Stack ~</h3>
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
