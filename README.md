@@ -1,10 +1,11 @@
 
 #
 
-# Olá, eu sou o Vinícius Macedo! 👋
+# Olá, eu sou o Vinícius Macedo! 👋 :brazil:
 
-Graduando em **Ciência da Computação** na Universidade Federal do Ceará (UFC - Campus Quixadá). Tenho forte interesse em pesquisar, aprender e prototipar arquiteturas de comunicação em tempo real, além de explorar customizações de criptografia aplicada a fluxos de mídia. Possuo base sólida em lógica de programação e Orientação a Objetos (Java e C++), com experiência prática em testes de software e gestão de dados.
+Sou graduando em **Ciência da Computação** pela Universidade Federal do Ceará (UFC), com interesse voltado à área de **Análise de Dados**. Venho desenvolvendo conhecimento em **Python** (bibliotecas pandas, seaborn e matplotlib) aplicado à manipulação, exploração e visualização de dados, bem como em **SQL**, **Excel** e **Power BI** para consulta e organização de informações, além de experiência na elaboração de **dashboards** para apoio à tomada de decisão.
 
+Possuo formação sólida em **Estruturas de Dados** e **Programação Orientada a Objetos** (Java e C++), o que contribui para o desenvolvimento de soluções mais eficientes e estruturadas no tratamento de dados. Conto ainda com experiência prática em testes de software e gestão de dados.
 #
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
