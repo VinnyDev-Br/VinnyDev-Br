@@ -46,8 +46,8 @@ I have a solid foundation in Data Structures and Object-Oriented Programming (Ja
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake.svg">
+    <img alt="Animação da cobrinha no gráfico de contribuições" width="100%" src="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake.svg">
   </picture>
 </div>
