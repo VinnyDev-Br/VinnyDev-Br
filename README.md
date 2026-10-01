@@ -1,6 +1,5 @@
 # Olá, eu sou o Vinícius Macedo! 👋 <img src="https://flagcdn.com/24x18/br.png" alt="Brazil" width="24">
 
-> **Transformando dados em decisões.**
 
 Sou graduando em **Ciência da Computação** pela Universidade Federal do Ceará (UFC), com interesse voltado à área de **Análise de Dados**. Venho desenvolvendo conhecimento em **Python** (bibliotecas pandas, seaborn e matplotlib) aplicado à manipulação, exploração e visualização de dados, bem como em **SQL**, **Excel** e **Power BI** para consulta e organização de informações, além de experiência na elaboração de **dashboards** para apoio à tomada de decisão.
 
@@ -10,7 +9,6 @@ Possuo formação sólida em **Estruturas de Dados** e **Programação Orientada
 
 # Hello, I'm Vinicius Macedo! 👋 <img src="https://flagcdn.com/24x18/us.png" alt="USA" width="24">
 
-> **Turning data into decisions.**
 
 I'm a Computer Science undergraduate at the Federal University of Ceará (UFC), Brazil <img src="https://flagcdn.com/24x18/br.png" alt="Brazil" width="24">, with a focus on Data Analysis. I have hands-on experience with Python (pandas, seaborn, and matplotlib) for data wrangling, exploration, and visualization, as well as SQL and Excel for querying and organizing information. I also have experience building dashboards to support data-driven decision-making.
 
