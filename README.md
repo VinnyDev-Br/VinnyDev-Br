@@ -1,51 +1,140 @@
-# Olá, eu sou o Vinícius Macedo! 👋 <img src="https://flagcdn.com/24x18/br.png" alt="Brazil" width="24">
-
-
-Sou graduando em **Ciência da Computação** pela Universidade Federal do Ceará (UFC), com interesse voltado à área de **Análise de Dados**. Venho desenvolvendo conhecimento em **Python** (bibliotecas pandas, seaborn e matplotlib) aplicado à manipulação, exploração e visualização de dados, bem como em **SQL**, **Excel** e **Power BI** para consulta e organização de informações, além de experiência na elaboração de **dashboards** para apoio à tomada de decisão.
-
-Possuo formação sólida em **Estruturas de Dados** e **Programação Orientada a Objetos** (Java e C++), o que contribui para o desenvolvimento de soluções mais eficientes e estruturadas no tratamento de dados. Conto ainda com experiência prática em testes de software e gestão de dados.
-
----
-
-# Hello, I'm Vinicius Macedo! 👋 <img src="https://flagcdn.com/24x18/us.png" alt="USA" width="24">
-
-
-I'm a Computer Science undergraduate at the Federal University of Ceará (UFC), Brazil <img src="https://flagcdn.com/24x18/br.png" alt="Brazil" width="24">, with a focus on Data Analysis. I have hands-on experience with Python (pandas, seaborn, and matplotlib) for data wrangling, exploration, and visualization, as well as SQL and Excel for querying and organizing information. I also have experience building dashboards to support data-driven decision-making.
-
-I have a solid foundation in Data Structures and Object-Oriented Programming (Java and C++), which supports writing more efficient and well-structured code for data processing. I also bring practical experience in software testing and data management.
-
----
-
-<img align="right" alt="Edgerunners" height="190px" src="./src/edgerunners.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:freitasvini676@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/vinicius-macedo-dev/)
-
-<h3 align="left">My Stack ~</h3>
-
-<p align="left">
-  <img alt="Java" title="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
-  <img alt="C++" title="C++" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
-  <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img alt="Pandas" title="Pandas" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
-  <img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
-  <img alt="GitHub" title="GitHub" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</p>
-
-<p align="left">
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=sqlite&logoColor=FF00F6" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-000?style=flat-square&logo=microsoftexcel&logoColor=FF00F6" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-000?style=flat-square&logo=powerbi&logoColor=FF00F6" />
-</p>
-
-<br clear="all" />
+# 🧑 Hi there, I'm Vinicius Macedo
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake.svg">
-    <img alt="Animação da cobrinha no gráfico de contribuições" width="100%" src="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake.svg">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=32&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast;Computer+Science+Student" alt="Headline"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
+</div>
+
+<div align="right">
+  <a href="#english-version">🇺🇸 EN-US</a> • <a href="#versao-em-portugues">🇧🇷 PT-BR</a>
+</div>
+
+<a name="english-version"></a>
+
+## 🇺🇸 English
+
+### 👨‍💻 About Me
+
+I am a **Computer Science student** aiming to become a **Data Analyst**. I enjoy finding patterns, understanding the story behind the numbers, and supporting decisions with reliable information.
+
+- 🔭 Studying **SQL** and **databases**
+- 🚀 Deepening my understanding of computing fundamentals: **data structures**, **computer architecture**, and **Object-Oriented Programming in Java**
+- 🌱 Practicing **English** to expand my access to content and opportunities in the field
+- 🎯 Seeking my first opportunity in data to solve real-world problems through analysis
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <h3>Languages & Analysis</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+  <h3>Databases</h3>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <h3>Data Visualization</h3>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+  <h3>Version Control</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+### 📊 Projects
+
+🚧 Section in progress. New data analysis projects are coming soon.
+
+<!--
+Template for each project (copy, fill in and remove the comment markers):
+
+- **[Project name](link-to-repo)**: one line about the question you answered.
+  Tools: Python, SQL, Power BI. Result: one insight or number that stands out.
+-->
+
+### 📱 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-macedo-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:freitasvini676@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+<hr>
+<br>
+
+<a name="versao-em-portugues"></a>
+
+## 🇧🇷 Português
+
+### 👨‍💻 Sobre Mim
+
+Sou **estudante de Ciência da Computação** e quero me tornar **Analista de Dados**. Gosto de encontrar padrões, entender a história por trás dos números e apoiar decisões com informação confiável.
+
+- 🔭 Estudando **SQL** e **bancos de dados**
+- 🚀 Aprofundando as bases da computação: **estruturas de dados**, **arquitetura de computadores** e **Programação Orientada a Objetos em Java**
+- 🌱 Praticando **inglês** para ampliar meu acesso a conteúdo e oportunidades na área
+- 🎯 Buscando minha primeira oportunidade em dados para resolver problemas reais com análise
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <h3>Linguagens e Análise</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+  <h3>Bancos de Dados</h3>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+  <h3>Visualização de Dados</h3>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+  <h3>Versionamento</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+### 📊 Projetos
+
+🚧 Seção em construção. Novos projetos de análise de dados em breve.
+
+<!--
+Modelo para cada projeto (copie, preencha e remova os marcadores de comentário):
+
+- **[Nome do projeto](link-do-repositorio)**: uma linha sobre a pergunta que você respondeu.
+  Ferramentas: Python, SQL, Power BI. Resultado: um insight ou número que se destaque.
+-->
+
+### 📱 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-macedo-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:freitasvini676@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
