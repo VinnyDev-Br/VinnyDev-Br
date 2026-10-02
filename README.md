@@ -1,13 +1,5 @@
 # 🧑 Hi there, I'm Vinicius Macedo
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%237C3AED&size=32&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast;Computer+Science+Student" alt="Headline"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
-</div>
 
 <div align="right">
   <a href="#english-version">🇺🇸 EN-US</a> • <a href="#versao-em-portugues">🇧🇷 PT-BR</a>
