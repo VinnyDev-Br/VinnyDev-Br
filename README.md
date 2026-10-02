@@ -44,11 +44,11 @@ I am a **Computer Science student** aiming to become a **Data Analyst**. I enjoy
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-### 📊 Projects
+<!--### 📊 Projects
 
 🚧 Section in progress. New data analysis projects are coming soon.
 
-<!--
+
 Template for each project (copy, fill in and remove the comment markers):
 
 - **[Project name](link-to-repo)**: one line about the question you answered.
@@ -109,11 +109,11 @@ Sou **estudante de Ciência da Computação** e quero me tornar **Analista de Da
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-### 📊 Projetos
+<!--### 📊 Projetos
 
 🚧 Seção em construção. Novos projetos de análise de dados em breve.
 
-<!--
+
 Modelo para cada projeto (copie, preencha e remova os marcadores de comentário):
 
 - **[Nome do projeto](link-do-repositorio)**: uma linha sobre a pergunta que você respondeu.
