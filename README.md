@@ -1,12 +1,5 @@
 # 🧑 Hi there, I'm Vinicius Macedo
 
-
-<div align="right">
-  <a href="#english-version">🇺🇸 EN-US</a> • <a href="#versao-em-portugues">🇧🇷 PT-BR</a>
-</div>
-
-<a name="english-version"></a>
-
 ## 🇺🇸 English
 
 ### 👨‍💻 About Me
