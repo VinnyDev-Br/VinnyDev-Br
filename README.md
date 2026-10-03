@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🇺🇸 English
+# 🇺🇸 English
 
 </div>
 
@@ -71,7 +71,7 @@ Template for each project (copy, fill in and remove the comment markers):
 
 <div align="center">
 
-## 🇧🇷 Português
+# 🇧🇷 Português
 
 </div>
 
