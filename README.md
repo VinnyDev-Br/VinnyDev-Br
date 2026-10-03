@@ -1,6 +1,10 @@
 # 🧑 Hi there, I'm Vinicius Macedo
 
+<div align="center">
+
 ## 🇺🇸 English
+
+</div>
 
 ### About Me
 
@@ -65,7 +69,11 @@ Template for each project (copy, fill in and remove the comment markers):
 
 <a name="versao-em-portugues"></a>
 
+<div align="center">
+
 ## 🇧🇷 Português
+
+</div>
 
 ### Sobre Mim
 
