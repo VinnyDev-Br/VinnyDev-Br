@@ -2,14 +2,14 @@
 
 ## 🇺🇸 English
 
-### 👨‍💻 About Me
+### About Me
 
 I am a **Computer Science student** aiming to become a **Data Analyst**. I enjoy finding patterns, understanding the story behind the numbers, and supporting decisions with reliable information.
 
-- 🔭 Studying **SQL** and **databases**
-- 🚀 Deepening my understanding of computing fundamentals: **data structures**, **computer architecture**, and **Object-Oriented Programming in Java**
-- 🌱 Practicing **English** to expand my access to content and opportunities in the field
-- 🎯 Seeking my first opportunity in data to solve real-world problems through analysis
+- Studying **SQL** and **databases**
+- Deepening my understanding of computing fundamentals: **data structures**, **computer architecture**, and **Object-Oriented Programming in Java**
+- Practicing **English** to expand my access to content and opportunities in the field
+- Seeking my first opportunity in data to solve real-world problems through analysis
 
 ### 🛠️ Tech Stack & Tools
 
@@ -67,14 +67,14 @@ Template for each project (copy, fill in and remove the comment markers):
 
 ## 🇧🇷 Português
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 Sou **estudante de Ciência da Computação** e quero me tornar **Analista de Dados**. Gosto de encontrar padrões, entender a história por trás dos números e apoiar decisões com informação confiável.
 
-- 🔭 Estudando **SQL** e **bancos de dados**
-- 🚀 Aprofundando as bases da computação: **estruturas de dados**, **arquitetura de computadores** e **Programação Orientada a Objetos em Java**
-- 🌱 Praticando **inglês** para ampliar meu acesso a conteúdo e oportunidades na área
-- 🎯 Buscando minha primeira oportunidade em dados para resolver problemas reais com análise
+-  Estudando **SQL** e **bancos de dados**
+-  Aprofundando as bases da computação: **estruturas de dados**, **arquitetura de computadores** e **Programação Orientada a Objetos em Java**
+-  Praticando **inglês** para ampliar meu acesso a conteúdo e oportunidades na área
+-  Buscando minha primeira oportunidade em dados para resolver problemas reais com análise
 
 ### 🛠️ Tecnologias e Ferramentas
 
