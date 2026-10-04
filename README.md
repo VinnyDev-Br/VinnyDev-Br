@@ -131,10 +131,10 @@ Modelo para cada projeto (copie, preencha e remova os marcadores de comentário)
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
----
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake.svg" />
   <img alt="Cobrinha do GitHub" src="https://raw.githubusercontent.com/VinnyDev-Br/VinnyDev-Br/output/github-snake.svg" />
 </picture>
----
+
